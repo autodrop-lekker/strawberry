@@ -88,7 +88,7 @@ li {
 .header {
   color: #DB295E;
   position: relative;
-  background: url(/img/the-blackrabbit-3gagzaWAe4Q-unsplash.jpg) no-repeat center center/cover;
+  background: url(https://github.com/autodrop-lekker/strawberry/blob/main/img/the-blackrabbit-3gagzaWAe4Q-unsplash.jpg?raw=true) no-repeat center center/cover;
   height: 1080px;
 }
 @media (max-width: 767px) {
@@ -280,7 +280,7 @@ li {
   margin-top: 18px;
 }
 .no2_inner_wrapper_img {
-  background: url(/img/pagal-pagal-iZ4mvDovbt0-unsplash.jpg) no-repeat center center/cover;
+  background: url(https://github.com/autodrop-lekker/strawberry/blob/main/img/pagal-pagal-iZ4mvDovbt0-unsplash.jpg?raw=true) no-repeat center center/cover;
   display: inline-block;
   width: 310px;
   height: 310px;
@@ -296,7 +296,7 @@ li {
 
 .bg {
   padding: 90px 0;
-  background: url(/img/strawberries-629180_1920.jpg);
+  background: url(https://github.com/autodrop-lekker/strawberry/blob/main/img/strawberries-629180_1920.jpg?raw=true);
 }
 @media (min-width: 768px) and (max-width: 1279px) {
   .bg {
@@ -426,7 +426,7 @@ li {
   margin-right: 0;
 }
 .no3_items_item_img {
-  background: url(/img/davide-carpani-cz6H-peo_E0-unsplash.jpg) no-repeat center center/cover;
+  background: url(https://github.com/autodrop-lekker/strawberry/blob/main/img/davide-carpani-cz6H-peo_E0-unsplash.jpg?raw=true) no-repeat center center/cover;
   width: 340px;
   height: 340px;
   border-radius: 50%;
@@ -438,7 +438,7 @@ li {
   }
 }
 .no3_items_item_img2 {
-  background: url(/img/eclair-3366430_1920.jpg) no-repeat center center/cover;
+  background: url(https://github.com/autodrop-lekker/strawberry/blob/main/img/eclair-3366430_1920.jpg?raw=true) no-repeat center center/cover;
   width: 340px;
   height: 340px;
   border-radius: 50%;
@@ -450,7 +450,7 @@ li {
   }
 }
 .no3_items_item_img3 {
-  background: url(/img/cakes-4916486_1920.jpg) no-repeat center center/cover;
+  background: url(https://github.com/autodrop-lekker/strawberry/blob/main/img/cakes-4916486_1920.jpg?raw=true) no-repeat center center/cover;
   width: 340px;
   height: 340px;
   border-radius: 50%;
