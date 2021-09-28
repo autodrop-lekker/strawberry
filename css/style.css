@@ -712,6 +712,10 @@ li {
   max-width: 383px;
   width: 100%;
 }
+@media (max-width: 767px) 
+.footer__nav {
+  width: 340px;
+}
 .footer__nav__item {
   border-right: 1px solid #FFF2D3;
 }
@@ -720,8 +724,12 @@ li {
 }
 .footer__nav__item a {
   text-align: center;
-  padding: 0 8px;
+  padding: 0 12px;
   color: #FFF2D3;
+}
+@media (max-width: 767px)
+.footer__nav__item a {
+    padding: 0 8px;
 }
 .footer-copyrights {
   font-size: 12px;
