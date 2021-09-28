@@ -645,7 +645,7 @@ li {
 .footer {
   background: #FF779F;
   padding: 60px 0;
-  padding: 40px 20px;
+  padding: 40px 10px;
 }
 .footer_title {
   text-align: center;
@@ -729,7 +729,8 @@ li {
 }
 @media (max-width: 767px)
 .footer__nav__item a {
-    padding: 0 8px;
+    padding: 0 11px;
+    font-size: 12px;
 }
 .footer-copyrights {
   font-size: 12px;
