@@ -413,7 +413,7 @@ li {
   }
 }
 .no3_items_item {
-  width: calc(33.33% - 50px * 2 / 3);
+  width: 33.3%;
   margin-right: 50px;
   height: auto;
 }
@@ -429,40 +429,31 @@ li {
 }
 .no3_items_item_img {
   background: url(https://github.com/autodrop-lekker/strawberry/blob/main/img/davide-carpani-cz6H-peo_E0-unsplash.jpg?raw=true) no-repeat center center/cover;
-  width: 340px;
-  height: 340px;
+  width: 80%;
+  height: 0;
+  padding-top: 80%;
+  margin: 0 auto;
   border-radius: 50%;
 }
-@media (min-width: 768px) and (max-width: 1279px) {
-  .no3_items_item_img {
-    width: 200px;
-    height: 200px;
-  }
-}
+
 .no3_items_item_img2 {
   background: url(https://github.com/autodrop-lekker/strawberry/blob/main/img/eclair-3366430_1920.jpg?raw=true) no-repeat center center/cover;
-  width: 340px;
-  height: 340px;
+   width: 80%;
+  height: 0;
+  padding-top: 80%;
+  margin: 0 auto;
   border-radius: 50%;
 }
-@media (min-width: 768px) and (max-width: 1279px) {
-  .no3_items_item_img2 {
-    width: 200px;
-    height: 200px;
-  }
-}
+
 .no3_items_item_img3 {
   background: url(https://github.com/autodrop-lekker/strawberry/blob/main/img/cakes-4916486_1920.jpg?raw=true) no-repeat center center/cover;
-  width: 340px;
-  height: 340px;
+   width: 80%;
+  height: 0;
+  padding-top: 80%;
+  margin: 0 auto;
   border-radius: 50%;
 }
-@media (min-width: 768px) and (max-width: 1279px) {
-  .no3_items_item_img3 {
-    width: 200px;
-    height: 200px;
-  }
-}
+
 .no3_items_item_name {
   padding: 9px 45px 12px;
   width: 289px;
@@ -480,8 +471,8 @@ li {
 }
 @media (min-width: 768px) and (max-width: 1279px) {
   .no3_items_item_name {
-    width: 200px;
-    padding: 5px 5px 10px;
+    width: 180px;
+    padding: 5px 5px 5px;
     font-size: 20px;
     left: 20px;
   }
